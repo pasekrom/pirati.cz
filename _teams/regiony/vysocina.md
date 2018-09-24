@@ -11,7 +11,7 @@ deputy:
 contact:
 - michaela.vodova
 region: Kraj Vysočina
-url: https://www.pirati.cz/regiony/vysocina/start
+url: https://vysocina.pirati.cz
 categories:
 - regiony
 tags:
